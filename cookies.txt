@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.forrester.com	TRUE	/	FALSE	1999999999	dtCookie	v_4_srv_1_sn_1C6FC27C08B412DBEE054735B733B1DD_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1
+www.forrester.com	TRUE	/	FALSE	1999999999	AWSALB	hOAtrtFVv7nanE86sdHr6zThO8HtGzSY9aolcc6P3515qF2XPTCe21cL+Snox0/mfOicplAqjnr32rkHXcxv+QZZRu56DPuX6OqnS940GuUe82CCeWyBZSNXvvBB
+www.forrester.com	TRUE	/	FALSE	1999999999	AWSALBCORS	hOAtrtFVv7nanE86sdHr6zThO8HtGzSY9aolcc6P3515qF2XPTCe21cL+Snox0/mfOicplAqjnr32rkHXcxv+QZZRu56DPuX6OqnS940GuUe82CCeWyBZSNXvvBB
+www.forrester.com	TRUE	/	FALSE	1999999999	SameSite	None
+
